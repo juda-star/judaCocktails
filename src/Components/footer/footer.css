@@ -1,0 +1,15 @@
+.iocnFooter{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.player {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .player span {
+    width: 30%;
+    height: 73vh;
+  }
+  

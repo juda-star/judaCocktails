@@ -1,0 +1,21 @@
+.spinner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20%;
+  }
+  .Card {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: left;
+    align-items: center;
+  }
+  .pageNotFound {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+  }
+  
+  
